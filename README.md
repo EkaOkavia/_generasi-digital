@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Co.PPI: Kopi Botolan Premium untuk Energi Otentikmu</title>
+    <title>Co.PPI: Kopi Botolan Premium</title>
     <!-- Deskripsi untuk SEO, mengandung keyword utama -->
     <meta name="description" content="Nikmati kopi botolan premium Co.PPI dengan biji pilihan, tersedia varian Almond, Brown Sugar, dan Americano. Praktis dan segar, rasa kafe otentik di mana saja.">
     <!-- Load Tailwind CSS -->
