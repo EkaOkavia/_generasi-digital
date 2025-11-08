@@ -1,5 +1,4 @@
-```jsx
-import { useState, useEffect } from 'react';
+#import { useState, useEffect } from 'react';
 import { Heart, ShoppingBag, ArrowRight, Star, Coffee, Package, Truck, Shield, Check, Phone, Mail, MapPin, Facebook, Instagram, Twitter, Youtube } from 'lucide-react';
 
 const App = () => {
